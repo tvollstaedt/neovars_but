@@ -13,7 +13,7 @@ More information about the modifications of the driver can be found [here](http:
 
 Run ```make-build_BuT.bat```.
 
-### Original driver reference (German only)
+## Original driver reference (German only)
 
 * http://wiki.neo-layout.org/wiki/Neo%20unter%20Windows%20einrichten/NeoVars
 * http://wiki.neo-layout.org/wiki/Treiber-Know-How/NeoVars
